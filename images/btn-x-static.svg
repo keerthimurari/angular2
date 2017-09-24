@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-x-static</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="60" font-family="Roboto-Medium, Roboto" font-weight="400">
+        <g id="btn-x-static" fill="#545454">
+            <text id="+" transform="translate(33.941125, 33.941125) rotate(-315.000000) translate(-33.941125, -33.941125) ">
+                <tspan x="21.4411255" y="54.4411255">+</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

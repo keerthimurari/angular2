@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-taxpro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.77637039e-15 71.9995 1.77637039e-15 0 71.9997 0 71.9997 71.9995"></polygon>
+        <path d="M25,0 C19.023,0 13.956,5.067 14.215,11.174 C14.215,12.083 14.215,12.992 14.346,13.643 C14.086,13.383 13.826,13.383 13.566,13.643 C13.177,14.033 13.436,14.812 13.436,16.502 C13.566,18.32 13.566,19.75 14.735,20.139 C15.256,21.178 15.905,21.178 16.294,21.178 C16.684,23.257 17.464,24.947 18.373,26.376 C18.504,28.715 18.244,30.794 17.595,32.873 C14.475,35.081 11.098,37.03 7.59,38.719 C5.068,38.341 2.178,39.553 0.348,41.288 C5.079,50.048 14.345,56.001 25,56.001 C35.622,56.001 44.863,50.085 49.608,41.37 C47.783,39.591 44.842,38.335 42.281,38.719 C38.773,37.159 35.394,35.212 32.277,32.873 C31.627,30.923 31.367,28.715 31.497,26.376 C32.536,24.947 33.186,23.257 33.576,21.178 C33.966,21.178 34.615,21.309 35.135,20.139 C36.564,19.619 36.304,17.411 36.564,14.552 C36.564,13.253 36.044,13.253 35.654,13.643 C35.784,12.863 35.784,11.304 35.784,11.304 L35.784,10.785 C35.784,4.807 30.977,0 25,0 Z" id="path-3"></path>
+        <polygon id="path-5" points="0.413 6.629 5.87 3.77 0.413 0.912"></polygon>
+        <polygon id="path-7" points="0 3.77 5.586 6.629 5.586 0.912"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-taxpro">
+            <g id="Page-1">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <circle id="Oval" fill="#FFFFFF" mask="url(#mask-2)" cx="36.5" cy="36.5" r="33.5"></circle>
+                    <path d="M35.9997,-0.0005 C16.1177,-0.0005 -0.0003,16.1175 -0.0003,35.9995 C-0.0003,55.8825 16.1177,71.9995 35.9997,71.9995 C55.8827,71.9995 71.9997,55.8825 71.9997,35.9995 C71.9997,16.1175 55.8827,-0.0005 35.9997,-0.0005 M35.9997,4.9995 C53.0937,4.9995 66.9997,18.9065 66.9997,35.9995 C66.9997,53.0935 53.0937,66.9995 35.9997,66.9995 C18.9067,66.9995 4.9997,53.0935 4.9997,35.9995 C4.9997,18.9065 18.9067,4.9995 35.9997,4.9995" id="Fill-1" fill="#D2D2D2" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(11.000000, 8.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#82BC00" mask="url(#mask-4)" points="-10.211 62.496 60.212 62.496 60.212 -6.497 -10.211 -6.497"></polygon>
+                </g>
+                <g id="Group-9" transform="translate(30.000000, 43.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Fill-7" fill="#FFFFFF" mask="url(#mask-6)" points="-6.083 13.126 12.367 13.126 12.367 -5.584 -6.083 -5.584"></polygon>
+                </g>
+                <g id="Group-12" transform="translate(36.000000, 43.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill="#D8D8D8" mask="url(#mask-8)" points="-6.496 13.126 12.084 13.126 12.084 -5.584 -6.496 -5.584"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
